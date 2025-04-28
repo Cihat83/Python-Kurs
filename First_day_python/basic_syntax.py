@@ -3,12 +3,12 @@
 # Dies ist ein einzeiliger Kommentar
 
 """
-Dies ist ein Multline Comment
+Dies ist ein Multiline Comment
 Diesen Kommentag kann ich über mehrere Zeilen schreiben
 """
 
 '''
-Auch dies ist ein Mulit line comment
+Auch dies ist ein Mulitiline comment
 Auch dies geht über mehrere Zeilen!
 '''
 
