@@ -37,10 +37,6 @@ else:
 # Import sollte immer am Anfang des Scripts stehen
 # import Modul war in der Reihenfolge der Themen später behandelt, deswegen steht es mittig im Script
 
-import os
-import cpuinfo
-import erweiterte_grundlagen
-
 cpuCount = os.cpu_count()
 
 # String concatination mit str() (Umwandlung des Int in ein String)
