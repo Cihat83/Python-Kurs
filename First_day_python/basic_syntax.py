@@ -35,6 +35,8 @@ else:
     print("x is bigger then 2")
 
 #Import sollte immer am Anfang des scripts stehen
+#Import Module war in der Reihenfolge der Themen später behandelt, deswegen steht es mittig  im Script
+
 import os
 import cpuinfo
 import erweiterte_grundlagen
@@ -59,10 +61,10 @@ else:
     print("Your CPU is okay :D")
 
 if cpuinfo["count"] is maxCpuCount:
-    print("Your Cpu ist great")
+    print("Your Cpu is great")
 
 if cpuinfo["count"] is not maxCpuCount:
-    print("Your Cpu ist bad")
+    print("Your Cpu is bad")
 
 # Erweiterte Datentypen
 
